@@ -64,7 +64,7 @@
         <div class="container pt-20 pb-20">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="font-13 text-black-777 m-0">Copyright &copy;2019 <a href="https://tech-bari.com/">TECH-BARI</a>. All Rights Reserved</p>
+                    <p class="font-13 text-black-777 m-0">Copyright &copy;2023 <a href="https://binnur.xyz/">MD YUSUF BIN NUR</a>. All Rights Reserved</p>
                 </div>
 
             </div>
