@@ -135,7 +135,7 @@
         <footer class="footer footer-transparent">
             <div class="container">
                 <div class="copyright">
-                    © <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="https://octoriz.com/" target="_blank">Octoriz</a>
+                    © <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="https://binnur.xyz/" target="_blank">MD YUSUF BIN NUR</a>
                 </div>
             </div>
         </footer>
