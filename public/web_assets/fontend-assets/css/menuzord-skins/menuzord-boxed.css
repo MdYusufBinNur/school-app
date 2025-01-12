@@ -13,7 +13,7 @@ Boxed Skin
 /* Active/hover state (menu items) */
 .menuzord-menu > li.active > a,
 .menuzord-menu > li:hover > a{
-	background: #26cf47;
+	background: #000000;
 	color: #fff;
 }
 
@@ -27,7 +27,7 @@ Boxed Skin
 
 /* Dropdown items */
 .menuzord .menuzord-menu ul.dropdown li:hover > a{
-	background: #14d339;
+	background: #000000;
 	color: #fff;
 }
 

@@ -161,7 +161,7 @@
                 <div class="section-title">
                     <div class="row">
                         <div class="col-md-8 mt-30 col-md-offset-2">
-                            <h2 class="text-center line-height-1 mt-0">Why<span class="text-theme-colored3"> MADARSHA ML HIGH</span> SCHOOL ?</h2>
+                            <h2 class="text-center line-height-1 mt-0">Why<span class="text-theme-colored3"> CHICKDAIR SFJ HIGH</span> SCHOOL ?</h2>
                         </div>
                     </div>
                 </div>

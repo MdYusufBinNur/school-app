@@ -77,7 +77,7 @@
                         <section style="padding-top: 20px">
                             <div class="panel panel-default">
                                 @if(!empty($academy_details))
-                                    <div class="panel-heading" style="background-color: #26CF47">{{ $academy_details->academy_name }}</div>
+                                    <div class="panel-heading" style="background-color: #000000">{{ $academy_details->academy_name }}</div>
 
                                     <div class="panel-body">
                                         <p class="text-black">

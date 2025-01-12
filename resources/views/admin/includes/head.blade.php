@@ -5,7 +5,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>MADARSHA ML HIGH SCHOOL</title>
+    <title>Chickdair SFJ High School</title>
 
 
     <!-- Fonts -->

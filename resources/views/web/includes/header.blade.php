@@ -2,7 +2,7 @@
 <header id="header" class="header">
     <div class="header-top  sm-text-center style-bordered">
         <div class="container-fluid text-center">
-            <img src="{{ url('web_assets/fontend-assets/images/school_name/home_header_file.png') }}" alt="">
+            <img src="{{ url('web_assets/fontend-assets/images/school_name/csf.png') }}" alt="">
 
         </div>
         </div>

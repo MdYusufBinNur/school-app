@@ -1,6 +1,6 @@
 <head>
     <!-- Page Title -->
-    <title>MADARSHA ML HIGH SCHOOL</title>
+    <title>CSFJH SCHOOL</title>
 
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
@@ -10,17 +10,17 @@
     <meta name="robots" content="imageindex" />
     <meta name="googlebot" content="index, follow" />
     <meta name="revisit-after" content="5 days" />
-    <meta name="author" content="MADARSHA ML HIGH SCHOOLe" />
-    <meta name="designer" content="MADARSHA ML HIGH SCHOOL" />
+    <meta name="author" content="Chickdair SFJ High School" />
+    <meta name="designer" content="Chickdair SFJ High School" />
     <meta name="copyright" content="© 2004-2019 TECH-BARI" />
     <meta name="distribution" content="Global" />
     <meta name="rating" content="Safe For Kids" />
 
     {{--<link rel="canonical" href="index.html" />--}}
     <meta name="identifier-url" content="index.html" />
-    <meta name="keywords" content="madarsha school, madarsha school admission fees, madarsha college admissions, madarsha school and college admission, madarsha school & college, bsb cambrian education group, cambrian school and college admission fees,  madarsha school bd, madarsha education group,  madarsha school campuses, madarsha, madarsha school residence, madarsha school and college">
+    <meta name="keywords" content="chikdair school, chickdair school admission fees, chickdair college admissions, chickdair school and college admission, chickdair school & college, bsb cambrian education group, cambrian school and college admission fees,  chickdair school bd, chickdair education group,  chickdair school campuses, chickdair, chickdair school residence, chickdair school and college">
     <meta name="description" content="Our aim is to create productive student from the base level so they can express themselves anywhere in the world">
-    <meta name="author" content="madarsha school">
+    <meta name="author" content="YusufBinNur">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     {{--<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>--}}
     <!-- Favicon and Touch Icons -->

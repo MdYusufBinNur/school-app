@@ -24,7 +24,7 @@
 
     <div id="preloader">
         <div id="spinner">
-            <img src="{{ url('web_assets/fontend-assets/images/preloaders/5.gif') }}" alt="">
+            <img src="{{ url('web_assets/fontend-assets/images/preloaders/load.gif') }}" alt="">
         </div>
     </div>
 

@@ -508,7 +508,7 @@ ul.list li a {
 }
 
 .list li a:hover{
-  color: #14d339;
+  color: #000000;
 }
 /* -------- List White ---------- */
 ul.list.list-white li:before {
@@ -657,7 +657,7 @@ ul.list.check-circle li:before {
 }
 
 .list-divider li:hover{
-  background-color: #14d339;
+  background-color: #000000;
   display: block;
 }
 
@@ -728,7 +728,7 @@ section > .container-fluid {
 }
 /* -------- Scroll To Top ---------- */
 .scrollToTop {
-  background: #14d339;
+  background: #000000;
   bottom: 15px;
   display: none;
   height: 50px;
@@ -745,7 +745,7 @@ section > .container-fluid {
   font-size: 42px;
 }
 .scrollToTop:hover {
-  background: #14d339;
+  background: #000000;
   text-decoration: none;
 }
 /* -------- magnific popup ---------- */
@@ -9270,7 +9270,7 @@ table.inner{
 }
 
 .wht_btn{
-  background-color: #14d339;
+  background-color: #000000;
   padding: 8px 12px;
   color: #ffffff;
   border-radius: 7px;
